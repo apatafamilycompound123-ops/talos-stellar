@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/233-policy-driven-model-routing",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/233-policy-driven-model-routing": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/233-policy-driven-model-routing",
+    "origin"
+  ]
+}
